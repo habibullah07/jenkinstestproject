@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinsApp1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe6792c39f1e32bca139b96e2fe03e13455f3166")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsApp1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsApp1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
